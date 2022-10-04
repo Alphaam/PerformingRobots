@@ -1,9 +1,9 @@
-All the media and code can be found [here](https://drive.google.com/drive/folders/1jPdfsJTfs83kFfywyAuXnXBFivLlhmPm?usp=sharing)
+All the media and code can be found [here](https://drive.google.com/drive/folders/1jPdfsJTfs83kFfywyAuXnXBFivLlhmPm?usp=sharing).
 
 
 Our project begun with revisiting the code provided in class to allow the remote control of our robot. Once we had encorporated the code into our Arduino file. We began with the physical part of the project.
 
-We, first, determined that the way we had constructed the robot initially, was unstable as the wooden platform with wheels would flip back and forward whenever we changed direction to forcefully because of the lack of adequately length supports on the front of the back of the robot. To fix this, we mounted a piece of wood to the front of the wood with a wheel attached to the bottom of it as seen [here](https://drive.google.com/drive/folders/1jPdfsJTfs83kFfywyAuXnXBFivLlhmPm?usp=sharing)
+We, first, determined that the way we had constructed the robot initially, was unstable as the wooden platform with wheels would flip back and forward whenever we changed direction to forcefully because of the lack of adequately length supports on the front of the back of the robot. To fix this, we mounted a piece of wood to the front of the wood with a wheel attached to the bottom of it as seen [here](https://drive.google.com/drive/folders/1jPdfsJTfs83kFfywyAuXnXBFivLlhmPm?usp=sharing).
 
 
 This was done to create a permanent slanting of the robot to prevent the violent rocking with the change in direction of motion of the robot. We also kept the wheels on the back and front of the robot to reduce the amount of friction the robot faces when moving which if not regulated could cause problems with the robot’s movement especially with the added weight that the project instructed us to incorporate in the robot’s design.
@@ -20,4 +20,3 @@ After gluing the structure on, we tested out the robot, it ran smoothly without 
 The difficulty we faced was sudden jerks in the robot’s motion from the receiver randomly picking up signals that were not coming from the remote control. We are yet to find a lasting solution to this problem. 
 
 
-![image](https://user-images.githubusercontent.com/58554818/193936225-6c394d12-a0ed-4f62-8e7d-8e7c3787c335.png)
